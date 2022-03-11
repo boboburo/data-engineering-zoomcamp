@@ -19,5 +19,6 @@ Here are some datasets that you could use for the project:
 * [Datasets for streaming](https://github.com/ColinEberhardt/awesome-public-streaming-datasets)
 * [Dataset for Santander bicycle rentals in London](https://cycling.data.tfl.gov.uk/)
 * [Common crawl data](https://commoncrawl.org/) (copy of the internet)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 PRs with more datasets are welcome!
